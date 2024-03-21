@@ -19,7 +19,7 @@ With a collection of 3900 records, this dataset serves as a foundation for busin
 
 It's important to note that this dataset is a Synthetic Dataset Created for Beginners to learn more about Data Analysis and Machine Learning.
 
-# Dataset Glossary (Column-wise)
+# Dataset Glossary
 
 Customer ID - Unique identifier for each customer
 
