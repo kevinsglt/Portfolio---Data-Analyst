@@ -7,6 +7,8 @@ The dataset comes from Kaggle: https://www.kaggle.com/datasets/iamsouravbanerjee
 The project will be updated from time to time: 
 21/03/2024 : Initial Commit
 
+This is my first project in Python, please don't hesitate to give me feedback, thank you! 
+
 # Context : 
 
 The Customer Shopping Preferences Dataset offers valuable insights into consumer behavior and purchasing patterns. Understanding customer preferences and trends is critical for businesses to tailor their products, marketing strategies, and overall customer experience. 
