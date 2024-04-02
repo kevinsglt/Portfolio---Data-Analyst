@@ -6,6 +6,7 @@ This is my first project in Python, please don't hesitate to give me feedback, t
 I made data visualization with Tableau Software too for practice.
 
 Python = Dashboard on Consumers
+
 Tableau = Dashboard on Business Performance
 
 Tableau Public - Shopping Trends - Business Performance (Data visualization) : https://public.tableau.com/app/profile/kevin.semedo.guiolet/viz/ShoppingTrends-KaggleProject/ShoppingTrendsKaggleProject
