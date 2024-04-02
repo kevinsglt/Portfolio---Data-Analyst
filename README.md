@@ -6,6 +6,9 @@ The dataset comes from Kaggle: https://www.kaggle.com/datasets/iamsouravbanerjee
 
 The project will be updated from time to time: 
 21/03/2024 : Initial Commit
+02/04/2024 : Share on Tableau Public
+
+Tableau Public link : https://public.tableau.com/app/profile/kevin.semedo.guiolet/viz/ShoppingTrends-KaggleProject/ShoppingTrendsKaggleProject
 
 This is my first project in Python, please don't hesitate to give me feedback, thank you! 
 
