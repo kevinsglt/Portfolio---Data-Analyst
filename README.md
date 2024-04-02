@@ -5,13 +5,16 @@ This repository contains my first Data project.
 This is my first project in Python, please don't hesitate to give me feedback, thank you! 
 I made data visualization with Tableau Software too for practice.
 
+Python = Dashboard on Consumers
+Tableau = Dashboard on Business Performance
+
+Tableau Public - Shopping Trends - Business Performance (Data visualization) : https://public.tableau.com/app/profile/kevin.semedo.guiolet/viz/ShoppingTrends-KaggleProject/ShoppingTrendsKaggleProject
+
 The dataset comes from Kaggle: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
 
 The project will be updated from time to time: 
 21/03/2024 : Initial Commit
 02/04/2024 : Share on Tableau Public
-
-Tableau Public link : https://public.tableau.com/app/profile/kevin.semedo.guiolet/viz/ShoppingTrends-KaggleProject/ShoppingTrendsKaggleProject
 
 # Context : 
 
